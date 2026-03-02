@@ -1,0 +1,7 @@
+echo "
+__pycache__/
+*.pyc
+.env
+src/data/*
+src/models/*
+" >> .gitignore
